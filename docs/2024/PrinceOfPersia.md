@@ -2,8 +2,8 @@
 
 ![](PrinceOfPersia.jpg){: style="height:250px;width:190px"}
 
-**Hours played**: 15<br>
 **Status**: DONE ✅<br>
+**Hours played**: 15<br>
 
 ### The Good 👍
 - Great controls and gameplay feel. Combat and platforming both feel so snappy and responsive.

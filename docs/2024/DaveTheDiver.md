@@ -2,8 +2,8 @@
 
 ![](DaveTheDiver.jpg){: style="height:250px;width:190px"}
 
-**Hours played**: 26<br>
 **Status**: DONE ✅<br>
+**Hours played**: 26<br>
 
 ### The Good 👍
 - Fun laid back game with a surprising amount of depth.

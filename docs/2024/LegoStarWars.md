@@ -2,8 +2,8 @@
 
 ![](LegoStarWars.jpg){: style="height:250px;width:190px"}
 
-**Hours played**: 17<br>
 **Status**: DONE ✅<br>
+**Hours played**: 17<br>
 
 ### The Good 👍
 - Fun way to relive the movies. They tell the stories in a nice way and with appropriate length.
