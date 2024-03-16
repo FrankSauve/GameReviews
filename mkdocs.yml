@@ -1,6 +1,9 @@
 site_name: Frank's Game Reviews
 theme:
     name: dracula
+    favicon: favicon.png
+    logo: favicon.png
+
 
 markdown_extensions:
   - attr_list
