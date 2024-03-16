@@ -13,7 +13,5 @@
 - The progression system is great and also very punishing at the same time.
 - Great replayability and build variety
 
-### The Bad 👎
-
 
 # SCORE: 10/10
