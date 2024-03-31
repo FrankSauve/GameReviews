@@ -5,6 +5,7 @@
 [Dark Souls 3](2021/DarkSouls3.md)<br>
 [Elden Ring](2022/EldenRing.md)<br>
 [FFXIV: Shadowbringers](2021/Shadowbringers.md)<br>
+[Neon White](./2024/NeonWhite.md) <br>
 
 ### 9.5
 [FFXIV: Endwalker](2022/Endwalker.md)<br>

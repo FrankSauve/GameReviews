@@ -12,8 +12,7 @@
 - Solid gameplay loop
 
 ### The Bad 👎
-- Too long to progress through the game and unlock new things. Requires a little too much grinding to my liking.
-- Very RNG dependent, which can still be fun, but at the end of the day you can only win with good RNG.
-- Got a little boring after a while. Wasn't very motivated to push pass the second level.
+ - No steam and game pass crossplay :frank_crainge:
+ - Gunplay could be a bit better, but its still fun.
 
 # SCORE: 8/10
