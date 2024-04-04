@@ -62,6 +62,9 @@
 ### 5
 [Dead Cells](2023/DeadCells.md)<br>
 
+### 4.5
+[Horizon Zero Dawn](2024/HorizonZeroDawn.md)<br>
+
 ### 4
 [Control](2021/Control.md)<br>
 [Farcry 6](2022/Farcry6.md)<br>

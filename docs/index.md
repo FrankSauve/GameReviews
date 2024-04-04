@@ -5,6 +5,7 @@
 [Prince of Persia: The Lost Crown](./2024/PrinceOfPersia.md) <br>
 [LEGO Star Wars: The Skywalker Saga](./2024/LegoStarWars.md) <br>
 [Neon White](./2024/NeonWhite.md) <br>
+[Horizon Zero Dawn](./2024/HorizonZeroDawn.md) <br>
 
 ### 2023
 [God Of War (2018)](2023/GodOfWar.md)<br>
