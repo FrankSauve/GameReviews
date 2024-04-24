@@ -6,6 +6,7 @@
 [LEGO Star Wars: The Skywalker Saga](./2024/LegoStarWars.md) <br>
 [Neon White](./2024/NeonWhite.md) <br>
 [Horizon Zero Dawn](./2024/HorizonZeroDawn.md) <br>
+[Marvel's Guardians of the Galaxy](2024/Guardians.md)<br>
 
 ### 2023
 [God Of War (2018)](2023/GodOfWar.md)<br>

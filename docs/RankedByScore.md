@@ -31,6 +31,7 @@
 ### 8.5
 [Death's Door](2022/DeathsDoor.md)<br>
 [V Rising](2023/VRising.md)<br>
+[Marvel's Guardians of the Galaxy](2024/Guardians.md)<br>
 
 ### 8
 [Deep Rock Galactic](2022/DeepRockGalactic.md)<br>
