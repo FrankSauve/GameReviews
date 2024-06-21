@@ -27,6 +27,7 @@
 [Sekiro](2021/Sekiro.md)<br>
 [Spider-Man Remastered](2023/SpiderMan.md)<br>
 [Titanfall 2](2023/Titanfall2.md)<br>
+[Resident Evil 7 Biohazard](2024/ResidentEvil7.md)<br>
 
 ### 8.5
 [Death's Door](2022/DeathsDoor.md)<br>

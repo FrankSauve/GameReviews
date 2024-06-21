@@ -7,6 +7,7 @@
 [Neon White](./2024/NeonWhite.md) <br>
 [Horizon Zero Dawn](./2024/HorizonZeroDawn.md) <br>
 [Marvel's Guardians of the Galaxy](2024/Guardians.md)<br>
+[Resident Evil 7 Biohazard](2024/ResidentEvil7.md)<br>
 
 ### 2023
 [God Of War (2018)](2023/GodOfWar.md)<br>
