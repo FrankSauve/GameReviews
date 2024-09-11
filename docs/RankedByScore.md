@@ -6,6 +6,7 @@
 [Elden Ring](2022/EldenRing.md)<br>
 [FFXIV: Shadowbringers](2021/Shadowbringers.md)<br>
 [Neon White](./2024/NeonWhite.md) <br>
+[Hi-Fi RUSH](./2024/HiFiRush.md) <br>
 
 ### 9.5
 [FFXIV: Endwalker](2022/Endwalker.md)<br>
