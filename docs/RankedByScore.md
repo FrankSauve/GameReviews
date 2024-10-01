@@ -44,6 +44,7 @@
 [Prince of Persia: The Lost Crown](./2024/PrinceOfPersia.md) <br>
 [Risk of Rain 2](2021/RiskOfRain2.md)<br>
 [Trackmania](2022/Trackmania.md)<br>
+[Path of Exile](./2024/PathOfExile.md) <br>
 
 ### 7.5
 [Civilization VI](2023/Civ6.md)<br>
