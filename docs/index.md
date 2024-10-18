@@ -11,6 +11,7 @@
 [Resident Evil Village](2024/ResidentEvil8.md)<br>
 [Hi-Fi RUSH](2024/HiFiRush.md)<br>
 [Path of Exile](2024/PathOfExile.md)<br>
+[Cocoon](2024/Cocoon.md)<br>
 
 ### 2023
 [God Of War (2018)](2023/GodOfWar.md)<br>

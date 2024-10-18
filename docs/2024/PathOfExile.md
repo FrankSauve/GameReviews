@@ -3,7 +3,7 @@
 ![](PathOfExile.jpg){: style="height:250px;width:190px"}
 
 **Status**: DONE ✅ (The campaign) <br>
-**Hours played**: 44<br>
+**Hours played**: 57<br>
 
 ### The Good 👍
 - Very good ARPG gameplay. Has that satisfying oomph when killing waves of enemies.
