@@ -12,6 +12,7 @@
 [Hi-Fi RUSH](2024/HiFiRush.md)<br>
 [Path of Exile](2024/PathOfExile.md)<br>
 [Cocoon](2024/Cocoon.md)<br>
+[Remnant II](2024/Remnant2.md)<br>
 
 ### 2023
 [God Of War (2018)](2023/GodOfWar.md)<br>

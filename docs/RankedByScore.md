@@ -45,7 +45,7 @@
 [Prince of Persia: The Lost Crown](./2024/PrinceOfPersia.md) <br>
 [Risk of Rain 2](2021/RiskOfRain2.md)<br>
 [Trackmania](2022/Trackmania.md)<br>
-[Cocoon](2022/Cocoon.md)<br>
+[Cocoon](2024/Cocoon.md)<br>
 
 ### 7.5
 [Civilization VI](2023/Civ6.md)<br>
@@ -64,6 +64,7 @@
 [Roller Champions](2022/RollerChampions.md)<br>
 [Star Wars: Battlefront II](2021/Battlefront2.md)<br>
 [Valheim](2023/Valheim.md)<br>
+[Remnant II](2024/Remnant2.md)<br>
 
 ### 5
 [Dead Cells](2023/DeadCells.md)<br>
