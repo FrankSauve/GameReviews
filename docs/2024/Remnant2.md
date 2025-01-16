@@ -22,4 +22,4 @@
 - The stats given by the items were such low percentages and so specific. Like "+5% mod regeneration for 5 seconds after you take lightning damage while reloading". Felt lackluster everytime we found a new shiny item.
 - The final boss of the game is a master class in bad design. It should be studied for generations and generations. First off, the background is red, the boss is red, the foreground is red, the attacks are red and the ammo pickups are red. Second, it teleports you in and out of 2 arenas, but keeps the old camera angle so it feels very jarring and unpleasant when it happens. Also, the bosses attacks and animations were a little janky and not well telegraphed. Overall just a super frustrating experience that didn't feel rewarding at all.
 
-# SCORE: 6/10
+# SCORE: 5/10
