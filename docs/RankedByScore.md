@@ -46,6 +46,7 @@
 [Risk of Rain 2](2021/RiskOfRain2.md)<br>
 [Trackmania](2022/Trackmania.md)<br>
 [Cocoon](2024/Cocoon.md)<br>
+[Balatro](2025/Balatro.md)<br>
 
 ### 7.5
 [Civilization VI](2023/Civ6.md)<br>
