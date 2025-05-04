@@ -57,6 +57,7 @@
 [Halo Infinite](2021/HaloInfinite.md)<br>
 [Loop Hero](2022/LoopHero.md)<br>
 [Multiversus](2022/Multiversus.md)<br>
+[Assassin's Creed Shadows](2025/ACShadows.md)<br>
 
 ### 6.5
 [Diablo IV](2023/DiabloIV.md)<br>
