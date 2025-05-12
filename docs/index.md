@@ -4,6 +4,7 @@
 [Saints Row (2022)](./2025/SaintsRow.md) <br>
 [Balatro](./2025/Balatro.md) <br>
 [Assassin's Creed Shadows](2025/ACShadows.md)<br>
+[Suicide Squad: Kill the Justice League](2025/SuicideSquad.md)<br>
 
 ### 2024
 [Dave The Diver](./2024/DaveTheDiver.md) <br>

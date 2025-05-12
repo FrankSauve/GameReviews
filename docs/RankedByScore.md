@@ -78,5 +78,8 @@
 [Control](2021/Control.md)<br>
 [Farcry 6](2022/Farcry6.md)<br>
 
+### 3
+[Suicide Squad: Kill the Justice League](2025/SuicideSquad.md)<br>
+
 ### 1 
 [Saints Row (2022)](./2025/SaintsRow.md) <br>
