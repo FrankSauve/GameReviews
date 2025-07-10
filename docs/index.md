@@ -5,6 +5,7 @@
 [Balatro](./2025/Balatro.md) <br>
 [Assassin's Creed Shadows](2025/ACShadows.md)<br>
 [Suicide Squad: Kill the Justice League](2025/SuicideSquad.md)<br>
+[It Takes Two](2025/ItTakesTwo.md)<br>
 
 ### 2024
 [Dave The Diver](./2024/DaveTheDiver.md) <br>

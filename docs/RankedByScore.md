@@ -14,6 +14,7 @@
 [Final Fantasy VII Remake](2023/FF7R.md)<br>
 [Vampire Survivors](2022/VampireSurvivors.md)<br>
 [Resident Evil Village](2024/ResidentEvil8.md)<br>
+[It Takes Two](2025/ItTakesTwo.md) <br>
 
 ### 9
 [Dave The Diver](./2024/DaveTheDiver.md) <br>
