@@ -6,6 +6,7 @@
 [Assassin's Creed Shadows](2025/ACShadows.md)<br>
 [Suicide Squad: Kill the Justice League](2025/SuicideSquad.md)<br>
 [It Takes Two](2025/ItTakesTwo.md)<br>
+[Cyberpunk 2077: Phantom Liberty](2025/CyberpunkPhantomLiberty.md)<br>
 
 ### 2024
 [Dave The Diver](./2024/DaveTheDiver.md) <br>
