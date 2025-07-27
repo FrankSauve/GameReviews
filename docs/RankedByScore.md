@@ -53,6 +53,7 @@
 ### 7.5
 [Civilization VI](2023/Civ6.md)<br>
 [NARUTO SHIPPUDEN ULTIMATE NINJA STORM 4](2023/Naruto.md)<br>
+[Halls of Torment](2025/HallsOfTorment.md)<br>
 
 ### 7
 [Going Under](2021/GoingUnder.md)<br>
