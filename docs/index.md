@@ -8,6 +8,7 @@
 [It Takes Two](2025/ItTakesTwo.md)<br>
 [Cyberpunk 2077: Phantom Liberty](2025/CyberpunkPhantomLiberty.md)<br>
 [Halls of Torment](2025/HallsOfTorment.md)<br>
+[FlyKnight](2025/FlyKnight.md)<br>
 
 ### 2024
 [Dave The Diver](./2024/DaveTheDiver.md) <br>
