@@ -6,7 +6,7 @@
 [Elden Ring](2022/EldenRing.md)<br>
 [FFXIV: Shadowbringers](2021/Shadowbringers.md)<br>
 [Neon White](./2024/NeonWhite.md) <br>
-[Hi-Fi RUSH](./2024/HiFiRush.md) <br>
+[Clair Obscur: Expedition 33](2025/Expedition33.md)<br>
 
 ### 9.5
 [FFXIV: Endwalker](2022/Endwalker.md)<br>
@@ -15,6 +15,7 @@
 [Vampire Survivors](2022/VampireSurvivors.md)<br>
 [Resident Evil Village](2024/ResidentEvil8.md)<br>
 [It Takes Two](2025/ItTakesTwo.md) <br>
+[Hi-Fi RUSH](./2024/HiFiRush.md) <br>
 
 ### 9
 [Dave The Diver](./2024/DaveTheDiver.md) <br>

@@ -9,6 +9,7 @@
 [Cyberpunk 2077: Phantom Liberty](2025/CyberpunkPhantomLiberty.md)<br>
 [Halls of Torment](2025/HallsOfTorment.md)<br>
 [FlyKnight](2025/FlyKnight.md)<br>
+[Clair Obscur: Expedition 33](2025/Expedition33.md)<br>
 
 ### 2024
 [Dave The Diver](./2024/DaveTheDiver.md) <br>

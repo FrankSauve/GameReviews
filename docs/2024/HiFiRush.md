@@ -21,4 +21,4 @@
 - Made me want to come back and replay the game on harder difficulty one day.
 
 
-# SCORE: 10/10
+# SCORE: 9.5/10
