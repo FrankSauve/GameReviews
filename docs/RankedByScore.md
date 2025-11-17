@@ -75,6 +75,7 @@
 ### 5
 [Dead Cells](2023/DeadCells.md)<br>
 [Remnant II](2024/Remnant2.md)<br>
+[Gotham Knights](2025/GothamKnights.md)<br>
 
 ### 4.5
 [Horizon Zero Dawn](2024/HorizonZeroDawn.md)<br>
